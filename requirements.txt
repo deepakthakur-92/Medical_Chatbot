@@ -1,0 +1,8 @@
+ctransformers==0.2.5 # since we are using quantized model for llama 
+sentence-transformers==2.2.2 # this is for embedding - to convert text into embeddings
+langchain==0.0.225
+flask
+pypdf
+python-dotenv
+chromadb
+tiktoken
