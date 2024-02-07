@@ -159,4 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-Model\llama-2-7b-chat.ggmlv3.q2_K.bin
+Model/llama-2-7b-chat.ggmlv3.q2_K.bin
